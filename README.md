@@ -40,16 +40,17 @@ Data Analytics and Full Stack Development.
 
 ---
 
-## 🐺 Current Pursuits
+## 🤠 The Trail I'm Riding
 
-```text
-▸ Tracking anomalies through Computer Vision
-▸ Building intelligent Machine Learning systems
-▸ Exploring Deep Learning architectures
-▸ Crafting Full Stack applications
-▸ Turning data into actionable insights
-```
+<div align="center">
 
+`Machine Learning` • `Computer Vision` • `Deep Learning`
+
+`Data Analytics` • `Full Stack Development`
+
+`Flutter` • `MLOps` • `System Design`
+
+</div>
 
 ---
 
