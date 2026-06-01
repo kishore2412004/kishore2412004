@@ -40,23 +40,15 @@ Data Analytics and Full Stack Development.
 
 ---
 
-## 🎯 Current Focus
+## 🐺 Current Pursuits
 
-<div align="center">
-
-![Machine Learning](https://img.shields.io/badge/Machine%20Learning-95%25-8B0000?style=for-the-badge)
-![Computer Vision](https://img.shields.io/badge/Computer%20Vision-90%25-8B0000?style=for-the-badge)
-
-![Data Analytics](https://img.shields.io/badge/Data%20Analytics-88%25-8B0000?style=for-the-badge)
-![Python](https://img.shields.io/badge/Python-95%25-8B0000?style=for-the-badge)
-
-![Full Stack](https://img.shields.io/badge/Full%20Stack-80%25-8B0000?style=for-the-badge)
-![Flutter](https://img.shields.io/badge/Flutter-75%25-8B0000?style=for-the-badge)
-
-![Deep Learning](https://img.shields.io/badge/Deep%20Learning-85%25-8B0000?style=for-the-badge)
-![MLOps](https://img.shields.io/badge/MLOps-40%25-8B0000?style=for-the-badge)
-
-</div>
+```text
+▸ Tracking anomalies through Computer Vision
+▸ Building intelligent Machine Learning systems
+▸ Exploring Deep Learning architectures
+▸ Crafting Full Stack applications
+▸ Turning data into actionable insights
+```
 
 
 ---
@@ -118,7 +110,10 @@ Machine Learning • Computer Vision • Deep Learning • MLOps • System Desi
 <br>
 
 > *"Be loyal to what matters."*
+<div align="center">
 
-⭐ Thanks for visiting my profile ⭐
+*"The frontier keeps moving, so do I."*
+
+</div>
 
 </div>
