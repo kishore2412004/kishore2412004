@@ -1,7 +1,8 @@
 <div align="center">
+  <img src="assets/rdr2-banner.png" width="85%" alt="Kishore E Banner">
+</div>
 
-<img src="assets/rdr2-banner.png" width="100%">
-
+<br>
 # 🤠 Kishore E
 
 ### Data Scientist • Machine Learning Engineer • Full Stack Developer
