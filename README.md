@@ -4,21 +4,13 @@
 
 # 🤠 Kishore E
 
-### Data Scientist • ML Engineer • Full Stack Developer
+### Data Scientist • Machine Learning Engineer • Full Stack Developer
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Courier+Prime&size=20&duration=3000&pause=1000&color=8B0000&center=true&vCenter=true&width=600&lines=Computer+Vision;Machine+Learning;Data+Analytics;Full+Stack+Development" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Courier+Prime&size=20&duration=3000&pause=1000&color=8B0000&center=true&vCenter=true&width=700&lines=Computer+Vision;Machine+Learning;Data+Analytics;Full+Stack+Development;Flutter+Development" />
 
-</div>
+![Profile Views](https://komarev.com/ghpvc/?username=kishore2412004&label=Profile+Views&color=8B0000&style=flat)
 
-<br>
-
-<div align="center">
-
-![Python](https://img.shields.io/badge/Python-8B0000?style=for-the-badge&logo=python&logoColor=white)
-![PyTorch](https://img.shields.io/badge/PyTorch-8B0000?style=for-the-badge&logo=pytorch&logoColor=white)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-8B0000?style=for-the-badge&logo=tensorflow&logoColor=white)
-![React](https://img.shields.io/badge/React-8B0000?style=for-the-badge&logo=react&logoColor=white)
-![Flutter](https://img.shields.io/badge/Flutter-8B0000?style=for-the-badge&logo=flutter&logoColor=white)
+> *"Be loyal to what matters."*
 
 </div>
 
@@ -32,6 +24,7 @@ Machine Learning, Computer Vision,
 Data Analytics and Full Stack Development.
 
 📍 Tamil Nadu, India
+🎓 B.Tech - Computer Science and Business Systems
 📄 Published Research Author (IJFMR)
 ```
 
@@ -39,31 +32,32 @@ Data Analytics and Full Stack Development.
 
 ## 🔫 Tech Stack
 
-<p align="center">
+<div align="center">
 
 <img src="https://skillicons.dev/icons?i=python,java,javascript,typescript,c,cpp,pytorch,tensorflow,react,nodejs,express,spring,flutter,mongodb,mysql,postgresql,docker,git,linux,vscode" />
 
-</p>
+</div>
 
 ---
 
-## 🐺 Featured Projects
+## 🎯 Current Focus
 
 <div align="center">
 
-[![FewShot](https://img.shields.io/badge/FewShot-Anomaly%20Detection-8B0000?style=for-the-badge)](https://github.com/kishore2412004/FewShot-Anomaly-Detection)
+![Machine Learning](https://img.shields.io/badge/Machine%20Learning-95%25-8B0000?style=for-the-badge)
+![Computer Vision](https://img.shields.io/badge/Computer%20Vision-90%25-8B0000?style=for-the-badge)
 
-[![Amazon](https://img.shields.io/badge/Amazon-Music%20Clustering-8B0000?style=for-the-badge)](https://github.com/kishore2412004/Amazon-Music-Clustering)
+![Data Analytics](https://img.shields.io/badge/Data%20Analytics-88%25-8B0000?style=for-the-badge)
+![Python](https://img.shields.io/badge/Python-95%25-8B0000?style=for-the-badge)
 
-[![PhonePe](https://img.shields.io/badge/PhonePe-Data%20Visualization-8B0000?style=for-the-badge)](https://github.com/kishore2412004/Phonepe_DataVisualization)
+![Full Stack](https://img.shields.io/badge/Full%20Stack-80%25-8B0000?style=for-the-badge)
+![Flutter](https://img.shields.io/badge/Flutter-75%25-8B0000?style=for-the-badge)
 
-[![Housing](https://img.shields.io/badge/Luxury-Housing%20Dashboard-8B0000?style=for-the-badge)](https://github.com/kishore2412004/luxury_housing_bangalore_dashboard)
-
-[![Fish](https://img.shields.io/badge/Multiclass-Fish%20Classification-8B0000?style=for-the-badge)](https://github.com/kishore2412004/Multiclass-Fish-Classification)
-
-[![Monetization](https://img.shields.io/badge/Content-Monetization-8B0000?style=for-the-badge)](https://github.com/kishore2412004/Content-Monetization)
+![Deep Learning](https://img.shields.io/badge/Deep%20Learning-85%25-8B0000?style=for-the-badge)
+![MLOps](https://img.shields.io/badge/MLOps-40%25-8B0000?style=for-the-badge)
 
 </div>
+
 
 ---
 
@@ -85,6 +79,16 @@ Data Analytics and Full Stack Development.
 
 ---
 
+## 📈 Activity Graph
+
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=kishore2412004&theme=gruvbox"/>
+
+</div>
+
+---
+
 ## 🌐 Connect
 
 <div align="center">
@@ -97,12 +101,24 @@ Data Analytics and Full Stack Development.
 <img src="https://img.shields.io/badge/Gmail-8B0000?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 
+<a href="https://github.com/kishore2412004">
+<img src="https://img.shields.io/badge/GitHub-8B0000?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
 </div>
 
 ---
 
 <div align="center">
 
+### ⚡ Currently Exploring
+
+Machine Learning • Computer Vision • Deep Learning • MLOps • System Design
+
+<br>
+
 > *"Be loyal to what matters."*
+
+⭐ Thanks for visiting my profile ⭐
 
 </div>
