@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="assets/rdr2-banner.png" width="50%">
+  <img src="assets/rdr2-banner.png" width="30%">
 
 # 🤠 Kishore E
 
