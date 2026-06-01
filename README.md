@@ -1,6 +1,5 @@
 <div align="center">
   <img src="assets/rdr2-banner.png" width="50%">
-</div>
 
 # 🤠 Kishore E
 
