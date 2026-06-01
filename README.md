@@ -1,5 +1,6 @@
 <div align="center">
-  <img src="assets/rdr2-banner.png" width="30%">
+
+<img src="assets/rdr2-banner.png" width="50%">
 
 # 🤠 Kishore E
 
@@ -16,6 +17,18 @@
 ---
 
 ## 🌵 About Me
+
+<div align="center">
+
+### 🤠 The Gunslinger Behind The Code
+
+<img src="https://img.shields.io/badge/Data%20Science-8B0000?style=for-the-badge" />
+<img src="https://img.shields.io/badge/Machine%20Learning-8B0000?style=for-the-badge" />
+<img src="https://img.shields.io/badge/Computer%20Vision-8B0000?style=for-the-badge" />
+<img src="https://img.shields.io/badge/Full%20Stack-8B0000?style=for-the-badge" />
+<img src="https://img.shields.io/badge/Flutter-8B0000?style=for-the-badge" />
+
+</div>
 
 ```yaml
 Name: Kishore E
@@ -37,49 +50,118 @@ Focus Areas:
   - Full Stack Development
   - Mobile App Development
 
+Research:
+  Smart Home Automation using Design Thinking
+  (Published in IJFMR)
 ```
 
 ---
 
 ## 🔫 Tech Arsenal
 
-### Languages
+<table>
+<tr>
+<td width="50%">
 
-<p>
-<img src="https://skillicons.dev/icons?i=python,java,javascript,typescript,c,cpp,dart" />
-</p>
+### 🤖 AI & Data Science
 
-### Data Science & AI
+- Machine Learning
+- Deep Learning
+- Computer Vision
+- Anomaly Detection
+- Data Analytics
+- Data Visualization
 
-<p>
-<img src="https://skillicons.dev/icons?i=python,tensorflow,pytorch" />
-</p>
+</td>
 
-**Libraries & Tools**
+<td width="50%">
 
-- Pandas
-- NumPy
-- Scikit-Learn
-- OpenCV
-- Matplotlib
-- Seaborn
-- Streamlit
+### 💻 Development
 
-### Development
+- React
+- Node.js
+- Spring Boot
+- Flutter
+- MongoDB
+- PostgreSQL
 
-<p>
-<img src="https://skillicons.dev/icons?i=react,nodejs,express,spring,flutter,mongodb,mysql,postgresql" />
-</p>
+</td>
+</tr>
+</table>
 
-### Tools
-
-<p>
-<img src="https://skillicons.dev/icons?i=git,github,docker,linux,vscode" />
+<p align="center">
+<img src="https://skillicons.dev/icons?i=python,java,javascript,typescript,c,cpp,dart,react,nodejs,express,spring,flutter,mongodb,mysql,postgresql,pytorch,tensorflow,docker,git,linux,vscode" />
 </p>
 
 ---
 
+## 🐺 Most Wanted Projects
 
+| Project | Domain | Tech |
+|----------|----------|----------|
+| 🔍 Few-Shot Anomaly Detection | Computer Vision | PyTorch |
+| 🎵 Amazon Music Clustering | Machine Learning | Scikit-Learn |
+| 📱 PhonePe Dashboard | Analytics | Streamlit |
+| 🏡 Luxury Housing Dashboard | Business Intelligence | Visualization |
+| 🐟 Multiclass Fish Classification | Deep Learning | TensorFlow |
+| 💰 Content Monetization | Analytics | Python |
+
+<details>
+<summary><b>📂 View Repository Links</b></summary>
+
+<br>
+
+- 🔍 https://github.com/kishore2412004/FewShot-Anomaly-Detection
+- 🎵 https://github.com/kishore2412004/Amazon-Music-Clustering
+- 📱 https://github.com/kishore2412004/Phonepe_DataVisualization
+- 🏡 https://github.com/kishore2412004/luxury_housing_bangalore_dashboard
+- 🐟 https://github.com/kishore2412004/Multiclass-Fish-Classification
+- 💰 https://github.com/kishore2412004/Content-Monetization
+
+</details>
+
+---
+
+## 📚 Research Publication
+
+<table>
+<tr>
+<td>
+
+### 📄 Smart Home Automation using Design Thinking
+
+Published in:
+
+**International Journal for Multidisciplinary Research (IJFMR)**
+
+Research Areas:
+
+- Internet of Things (IoT)
+- Smart Home Systems
+- Automation
+- Design Thinking
+
+</td>
+</tr>
+</table>
+
+---
+
+## 🏆 Achievements
+
+<table>
+<tr>
+<td align="center">🏆 Hack Mega Don Finalist</td>
+<td align="center">📄 Published Research Author</td>
+</tr>
+
+<tr>
+<td align="center">🥇 Top 5 – Design Thinking Expo</td>
+<td align="center">🏏 College Cricket Champion</td>
+</tr>
+</table>
+
+---
 
 ## 📊 GitHub Statistics
 
@@ -123,6 +205,24 @@ Focus Areas:
 
 ---
 
+## ⚡ Current Trail
+
+<details open>
+<summary><b>🚀 Currently Exploring</b></summary>
+
+<br>
+
+- Machine Learning
+- Computer Vision
+- Deep Learning
+- MLOps
+- System Design
+- Software Engineering
+
+</details>
+
+---
+
 ## 🌐 Connect With Me
 
 <div align="center">
@@ -145,11 +245,14 @@ Focus Areas:
 
 <div align="center">
 
-### ⚡ Currently Exploring
+### 🐺 Trail Status
 
-Machine Learning • Computer Vision • Deep Learning • MLOps • System Design
-
----
+```diff
++ Building Intelligent Applications
++ Exploring Computer Vision
++ Advancing Machine Learning Skills
++ Developing Full Stack Solutions
+```
 
 *"Be loyal to what matters."*
 
