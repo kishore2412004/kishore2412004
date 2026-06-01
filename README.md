@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="assets/rdr2-banner.png" width="85%" alt="Kishore E Banner">
+  <img src="assets/rdr2-banner.png" width="70%">
 </div>
 
 <br>
