@@ -38,9 +38,6 @@ Focus Areas:
   - Full Stack Development
   - Mobile App Development
 
-Research:
-  Smart Home Automation using Design Thinking
-  (Published in IJFMR)
 ```
 
 ---
@@ -83,91 +80,7 @@ Research:
 
 ---
 
-## 🐺 Featured Projects
 
-### 🔍 Few-Shot Anomaly Detection
-
-Industrial defect detection using Computer Vision and Deep Learning.
-
-**Tech Stack:** PyTorch • OpenCV • Streamlit • Deep Learning
-
-🔗 https://github.com/kishore2412004/FewShot-Anomaly-Detection
-
----
-
-### 🎵 Amazon Music Clustering
-
-Customer segmentation and recommendation insights using clustering algorithms.
-
-**Tech Stack:** Python • Pandas • Scikit-Learn • Data Visualization
-
-🔗 https://github.com/kishore2412004/Amazon-Music-Clustering
-
----
-
-### 📱 PhonePe Data Visualization
-
-Interactive analytics dashboard exploring digital payment trends.
-
-**Tech Stack:** Python • SQL • Streamlit
-
-🔗 https://github.com/kishore2412004/Phonepe_DataVisualization
-
----
-
-### 🏡 Luxury Housing Bangalore Dashboard
-
-Real estate analytics and housing market intelligence dashboard.
-
-**Tech Stack:** Data Analytics • Dashboarding • Visualization
-
-🔗 https://github.com/kishore2412004/luxury_housing_bangalore_dashboard
-
----
-
-### 🐟 Multiclass Fish Classification
-
-Deep learning based fish image classification system.
-
-**Tech Stack:** TensorFlow • CNN • Computer Vision
-
-🔗 https://github.com/kishore2412004/Multiclass-Fish-Classification
-
----
-
-### 💰 Content Monetization Analysis
-
-Revenue analytics and business intelligence insights.
-
-**Tech Stack:** Python • Data Visualization • Analytics
-
-🔗 https://github.com/kishore2412004/Content-Monetization
-
----
-
-## 📚 Research Publication
-
-### Smart Home Automation using Design Thinking Approach
-
-📄 Published in the **International Journal for Multidisciplinary Research (IJFMR)**
-
-**Research Areas**
-
-- Internet of Things (IoT)
-- Smart Home Systems
-- Automation
-- Design Thinking
-
----
-
-## 🏆 Achievements
-
-- 🥇 Hack Mega Don Finalist
-- 🥇 Top 5 – Design Thinking Expo
-- 🥇 Published Research Author
-- 🥇 College Cricket Champion
-
----
 
 ## 📊 GitHub Statistics
 
