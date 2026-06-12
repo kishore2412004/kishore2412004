@@ -86,7 +86,7 @@ Data Analytics and Full Stack Development.
 
 <div align="center">
 
-<a href="https://linkedin.com/in/kishore">
+<a href="https://linkedin.com/in/kishore-e-6b2427249">
 <img src="https://img.shields.io/badge/LinkedIn-8B0000?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
